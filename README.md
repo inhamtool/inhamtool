@@ -156,7 +156,7 @@ Data Science     🟥🟥🟥🟥🟥⬜⬜⬜⬜⬜    25%
 ## 🌐 Connect With The Guild
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Inham--ul--Haq-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/inham-ul-haq-294937257/)
-[![Upwork](https://img.shields.io/badge/Upwork-Profile-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/)
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~011461c6483aab354c)
 [![Email](https://img.shields.io/badge/Email-hyper0708@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:hyper0708@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-orange?style=for-the-badge&logo=google-chrome)](https://inhamtools.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Inhamtool-black?style=for-the-badge&logo=github)](https://github.com/Inhamtool)
